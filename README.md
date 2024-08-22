@@ -14,4 +14,4 @@ Kullanıcı dostı arayüz,
 Html, Css, Bootstrap
 
 
-![](Paylastikca Education.gif.)
+![](Paylastikca.gif.)
