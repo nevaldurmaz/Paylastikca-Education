@@ -1,4 +1,4 @@
-![Paylastikca1](https://github.com/user-attachments/assets/c65ddb40-9a71-4c71-90c8-aaa14e191f61)
+
 
 # Paylastikca-Education
 
@@ -15,4 +15,4 @@ Kullanıcı dostı arayüz,
 
 Html, Css, Bootstrap
 
-
+![Paylastikca1](https://github.com/user-attachments/assets/c65ddb40-9a71-4c71-90c8-aaa14e191f61)
