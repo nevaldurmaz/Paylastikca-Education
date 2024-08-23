@@ -9,7 +9,7 @@ Bu projede Bootstrap componentleri, Html ve Css kodlarımızdan oluşan bir bilg
 
 Responsive Tasarım,
 Açılır kapanır Header yapısı,
-Kullanıcı dostı arayüz,
+Kullanıcı dostu arayüz,
 
 # Kullanılan Teknolojiler
 
