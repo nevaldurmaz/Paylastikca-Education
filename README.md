@@ -15,4 +15,4 @@ Kullanıcı dostı arayüz,
 
 Html, Css, Bootstrap
 
-![Uploading Paylastikca1.gif…]()
+
